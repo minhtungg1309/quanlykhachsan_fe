@@ -5,56 +5,54 @@
         <div class="row">
             <div class="card">
                 <div class="card-body">
-                    <div class="row g-0">
+                    <div class="row align-items-center">
                         <div class="col-md-6">
-                            <img src="../../../assets/img_homepage/poster.jpeg" alt="..." class="card-img">
+                            <img src="https://pix8.agoda.net/geo/poi/147722/0c74a84a1cd4095a112223cc2c2ba063.jpg?ce=0&s=1024x"
+                                alt="Resort" class="card-img img-fluid rounded shadow-sm"
+                                style="max-height: 400px; object-fit: cover;">
                         </div>
                         <div class="col-md-6">
                             <div class="card-body">
-                                <h5 class="card-title mt-1 text-danger"> Resort</h5>
-                                <h2 class="card-title">Relax in our Hotel Resort</h2>
+                                <h5 class="card-title mt-1 text-danger">Resort</h5>
+                                <h2 class="card-title">Khám Phá Thiên Đường Nghỉ Dưỡng tại Resort</h2>
                                 <div class="row">
                                     <div class="col-lg-6">
-                                        <p style="height: 170px;"> Resort không chỉ là một khách
-                                            sạn bình thường, mà là
-                                            một thiên đường nghỉ dưỡng, mang đến trải nghiệm nghỉ dưỡng đỉnh
-                                            cao cho khách hàng. Khách sạn này được thiết kế với phong cách
-                                            hiện đại, sang trọng, mỗi phòng nghỉ đều có view đẹp mắt hướng
-                                            ra biển cả hoặc khu vườn xanh mát. .</p>
-                                        <p style="height: 170px;"> Resort cung cấp đầy đủ tiện
-                                            ích cao cấp như spa,
-                                            phòng tập gym, nhà hàng ẩm thực quốc tế, bar tại hồ bơi, và
-                                            nhiều hoạt động giải trí khác, đáp ứng mọi nhu cầu của du khách
-                                            từ nghỉ dưỡng đến làm việc hay tổ chức sự kiện.</p>
+                                        <p>
+                                            Resort không chỉ là một khách sạn thông thường mà còn là một chốn thiên
+                                            đường mang đến trải nghiệm
+                                            nghỉ dưỡng đẳng cấp. Với thiết kế hiện đại, tinh tế cùng không gian sang
+                                            trọng, mỗi căn phòng tại đây
+                                            đều được bài trí hoàn hảo với tầm nhìn tuyệt đẹp hướng ra biển xanh bao la
+                                            hoặc khu vườn nhiệt đới mát lành.
+                                        </p>
+                                        <p>
+                                            Tại Resort, du khách sẽ được tận hưởng hệ thống tiện ích đỉnh cao như spa
+                                            thư giãn chuyên nghiệp,
+                                            phòng gym trang bị hiện đại, nhà hàng phục vụ đa dạng món ăn từ Á đến Âu,
+                                            cùng khu vực bar bên hồ bơi
+                                            tạo nên không gian thư giãn hoàn hảo.
+                                        </p>
                                     </div>
                                     <div class="col-lg-6">
-                                        <p style="height: 170px;">Dịch vụ khách hàng tại Resort
-                                            luôn được đặt lên hàng
-                                            đầu. Đội ngũ nhân viên chuyên nghiệp, thân thiện sẵn sàng hỗ trợ
-                                            khách hàng 24/7, đảm bảo mỗi kỳ nghỉ tại đây là một trải nghiệm
-                                            thú vị và không thể quên. </p>
-                                        <p style="height: 170px;">Không chỉ là nơi nghỉ dưỡng lý tưởng,
-                                            Resort còn là
-                                            điểm đến hoàn hảo cho những ai muốn tổ chức các sự kiện quan
-                                            trọng như hội nghị, tiệc cưới, với các phòng chức năng đa dạng,
-                                            rộng rãi và được trang bị đầy đủ tiện nghi. </p>
+                                        <p>
+                                            Dịch vụ khách hàng luôn là tâm điểm tại Resort. Đội ngũ nhân viên tận tâm,
+                                            chuyên nghiệp, và chu đáo
+                                            luôn sẵn sàng phục vụ suốt 24/7, đảm bảo rằng mọi nhu cầu của bạn đều được
+                                            đáp ứng kịp thời, mang lại cảm giác thoải mái như ở nhà.
+                                        </p>
+                                        <p>
+                                            Không chỉ dừng lại ở một địa điểm nghỉ dưỡng lý tưởng, Resort còn là sự lựa
+                                            chọn hoàn hảo cho những sự kiện quan trọng.
+                                            Với hệ thống phòng hội nghị đa năng, rộng rãi, trang thiết bị hiện đại, đây
+                                            là nơi lý tưởng để tổ chức hội thảo,
+                                            sự kiện doanh nghiệp, hoặc tiệc cưới đầy ấn tượng.
+                                        </p>
                                     </div>
                                 </div>
-                                <!-- <div class="row">
-                                        <a class="d-flex align-items-center nav-link dropdown-toggle dropdown-toggle-nocaret"
-                                            href="#" role="button" data-bs-toggle="dropdown"
-                                            aria-expanded="false">
-                                            <img src="../../../assets/img_homepage/assets/images/avatars/avatar-4.png" class="user-img"
-                                                alt="user avatar">
-                                            <div class="user-info ps-3">
-                                                <p class="user-name mb-0"> Resort</p>
-                                                <p class="designattion mb-0">Nguyễn Quốc Long</p>
-                                            </div>
-                                        </a>
-                                    </div> -->
                             </div>
                         </div>
                     </div>
+
                 </div>
             </div>
         </div>
@@ -62,40 +60,51 @@
             <div class="card">
                 <div class="card-body">
                     <div class="row">
-                        <div class="col">
+                        <!-- Ngày Đến -->
+                        <div class="col-12 col-sm-6 col-md-4 mb-3">
                             <label class="form-label">Ngày Đến</label>
                             <input v-bind:min="tt_dat.min_ngay_den" v-on:change="doiNgayDen()" v-model="tt_dat.ngay_den"
                                 type="date" class="form-control">
                         </div>
-                        <div class="col">
+
+                        <!-- Ngày Đi -->
+                        <div class="col-12 col-sm-6 col-md-4 mb-3">
                             <label class="form-label">Ngày Đi</label>
                             <input v-bind:min="tt_dat.min_ngay_di" v-model="tt_dat.ngay_di" type="date"
                                 class="form-control">
                         </div>
-                        <div class="col">
+
+                        <!-- Số Phòng -->
+                        <div class="col-12 col-sm-6 col-md-4 mb-3">
                             <label class="form-label">Số Phòng</label>
                             <input v-model="tt_dat.so_phong" type="number" class="form-control"
                                 placeholder="Nhập số lượng phòng">
                         </div>
-                        <div class="col">
+
+                        <!-- Số Người Lớn -->
+                        <div class="col-12 col-sm-6 col-md-4 mb-3">
                             <label class="form-label">Số Người Lớn</label>
                             <input v-model="tt_dat.nguoi_lon" type="number" class="form-control"
                                 placeholder="Nhập số người lớn">
                         </div>
-                        <div class="col">
+
+                        <!-- Trẻ Em -->
+                        <div class="col-12 col-sm-6 col-md-4 mb-3">
                             <label class="form-label">Trẻ Em</label>
                             <input v-model="tt_dat.tre_em" type="number" class="form-control"
                                 placeholder="Nhập số trẻ em">
                         </div>
-                        <div class="col">
+
+                        <!-- Nút Tìm Kiếm -->
+                        <div class="col-12 col-sm-6 col-md-4 mb-3">
                             <button v-on:click="chuyenTrang()" class="btn btn-warning w-100"
-                                style="margin-top: 28px;">Tìm
-                                Kiếm</button>
+                                style="margin-top: 28px;">Tìm Kiếm</button>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+
 
         <div class="row">
             <div class="card">
@@ -198,36 +207,34 @@
                     </div>
 
                     <!-- Room Carousel Section -->
-
                     <div class="carousel-container">
                         <carousel :items-to-show="4" :loop="true">
                             <slide v-for="(v, k) in ds_loai_phong" :key="k" class="p-2">
                                 <div class="col">
-                                    <div class="card border-0 shadow-sm rounded">
+                                    <router-link to="/dat-phong" class="card border-0 shadow-sm rounded room-card">
                                         <img v-bind:src="v.hinh_anh"
                                             style="width: 100%; height: 230px; object-fit: cover;"
-                                            class="card-img-top rounded-top" alt="Hình ảnh phòng">
+                                            class="card-img-top rounded-top room-img" alt="Hình ảnh phòng">
                                         <div class="card-body">
                                             <h5 class="card-title text-dark fw-bold">{{ v.ten_loai_phong }}</h5>
                                             <div class="d-flex align-items-center mt-3">
-                                                <p class="mb-0 me-4 text-muted"><i class="fa-solid fa-expand"></i>
-                                                    {{ v.dien_tich }}m<sup>2</sup>
-                                                </p>
-                                                <p class="mb-0 text-muted"><i class="fa-solid fa-bed"></i>
-                                                    {{ v.so_giuong }} Giường
-                                                </p>
+                                                <p class="mb-0 me-4 text-muted"><i class="fa-solid fa-expand"></i> {{
+                                                    v.dien_tich }}m<sup>2</sup></p>
+                                                <p class="mb-0 text-muted"><i class="fa-solid fa-bed"></i> {{
+                                                    v.so_giuong }} Giường</p>
                                             </div>
                                             <hr>
                                             <div class="d-flex justify-content-between">
                                                 <a href="javascript:;" class="btn btn-outline-danger rounded-pill">
                                                     <i class="bx bx-star"></i> Yêu Thích
                                                 </a>
-                                                <a href="javascript:;" class="btn btn-primary rounded-pill">
+                                                <router-link to="/dat-phong" href="javascript:;"
+                                                    class="btn btn-primary rounded-pill">
                                                     Chọn Phòng
-                                                </a>
+                                                </router-link>
                                             </div>
                                         </div>
-                                    </div>
+                                    </router-link>
                                 </div>
                             </slide>
                             <template #addons>
@@ -443,4 +450,35 @@ export default {
     },
 }
 </script>
-<style></style>
+<style>
+.room-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.room-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+}
+
+.room-img {
+    transition: opacity 0.3s ease;
+}
+
+.room-card:hover .room-img {
+    opacity: 0.85;
+}
+
+.room-card .btn {
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.room-card:hover .btn-primary {
+    background-color: #0056b3;
+    color: #fff;
+}
+
+.room-card:hover .btn-outline-danger {
+    background-color: #dc3545;
+    color: #fff;
+}
+</style>

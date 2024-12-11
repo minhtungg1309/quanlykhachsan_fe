@@ -150,9 +150,6 @@
                                                     <th class="fs-5 mb-2">
                                                         Số phòng
                                                     </th>
-                                                    <th class="fs-5 mb-2">
-                                                        Đặt phòng
-                                                    </th>
                                                 </tr>
 
                                             </thead>
@@ -214,19 +211,12 @@
                                                     </td>
                                                     <td class="text-end">
                                                         <p class="text-success text-center"><b class="fs-5">{{
-                                                                value.gia_trung_binh }}</b>
+                                                            value.gia_trung_binh }}</b>
                                                             đ
                                                         </p>
                                                         <i class="text-wrap">Giá mỗi đêm chưa bao gồm thuế và phí</i>
                                                     </td>
-                                                    <td rowspan="2">
-                                                        <div class="d-flex flex-column">
-                                                            <button class="btn btn-primary w-100">Đặt ngay</button>
-                                                            <!-- <button
-                                                                class="btn btn-outline-primary w-100 mt-2 mb-5 text-wrap">Giỏ
-                                                                hàng</button> -->
-                                                        </div>
-                                                    </td>
+
                                                 </tr>
                                             </tbody>
                                         </table>

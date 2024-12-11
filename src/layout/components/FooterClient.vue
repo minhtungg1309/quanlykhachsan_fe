@@ -1,7 +1,7 @@
 <template>
     <footer class="text-center text-lg-start text-white" style="background-color: #1c2331">
         <!-- Section: Social media -->
-        <section class="d-flex justify-content-between p-4" style="background-color: #6351ce">
+        <section class="d-flex justify-content-between p-4" style="background-color: #000">
             <!-- Left -->
             <div class="me-5">
             </div>
@@ -31,7 +31,7 @@
             <!-- Right -->
         </section>
 
-        <section class="">
+        <section class="" style="height: 200px">
             <div class="container text-center text-md-start mt-5">
                 <div class="row mt-3">
                     <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
@@ -39,10 +39,6 @@
                             Resort</h6>
                         <hr class=" mt-0 d-inline-block mx-auto"
                             style="width: 60px; background-color: #7c4dff; height: 2px" /><br>
-                        <div class="text-center mb-2">
-                            <img src="../../assets/img_homepage/logo_1.png" class="img-fluid"
-                                style="width: 100px; height: auto;" alt="">
-                        </div>
                         <p>
                             Here you can use rows and columns to organize your footer
                             content. Lorem ipsum dolor sit amet, consectetur adipisicing
@@ -87,16 +83,16 @@
                         <h6 class="text-uppercase fw-bold">Contact</h6>
                         <hr class="mb-4 mt-0 d-inline-block mx-auto"
                             style="width: 60px; background-color: #7c4dff; height: 2px" />
-                        <p><i class="fas fa-home mr-3"></i>32 Xuân Diệu, Hải Châu, Đà Nẵng</p>
-                        <p><i class="fas fa-envelope mr-3"></i> @gmai.com</p>
-                        <p><i class="fas fa-phone mr-3"></i> + 0905523543</p>
-                        <p><i class="fas fa-print mr-3"></i> + 0376659652</p>
+                        <p><i class="fas fa-home mr-3"></i> Hải Châu, Đà Nẵng</p>
+                        <p><i class="fas fa-envelope mr-3"></i> tungho.nth@gmai.com</p>
+                        <p><i class="fas fa-phone mr-3"></i> + 0935303721</p>
+                        <p><i class="fas fa-print mr-3"></i> + 0935303721</p>
                     </div>
                 </div>
             </div>
         </section>
         <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
-            © 2020 Copyright:
+            © 2024 Copyright:
             <a class="text-white" href="https://mdbootstrap.com/"> Team</a>
         </div>
     </footer>
